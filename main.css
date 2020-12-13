@@ -1,0 +1,15 @@
+.text{
+    color: blue;
+}
+
+p{
+    color: brown;
+}
+
+#group{
+    color: crimson;
+}
+
+*{
+    background-color: darkgreen;
+}
